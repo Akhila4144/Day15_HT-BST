@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.exe
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.deps.json
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.dll
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\bin\Debug\netcoreapp3.1\BinarySearchUC2.pdb
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.dll
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.pdb
+C:\Users\Raj Nani\source\repos\BinarySearchUC2\BinarySearchUC2\obj\Debug\netcoreapp3.1\BinarySearchUC2.genruntimeconfig.cache
